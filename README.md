@@ -14,7 +14,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sameera1994&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 ![Sameera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameera1994&show_icons=true&theme=github_dark)![GitHub Streak](https://streak-stats.demolab.com/?user=Sameera1994&theme=dark)
 [![Sameera's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameera1994&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera1994&layout=compact&theme=github_dark)
+
+![GitHub followers](https://img.shields.io/github/followers/sameera1994?label=Followers&style=social)
+![GitHub User Stars](https://img.shields.io/github/stars/sameera1994?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub forks](https://img.shields.io/github/forks/sameera1994/teflo?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/sameera1994/teflo)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/sameera1994/teflo)
+![GitHub issues](https://img.shields.io/github/issues/sameera1994/teflo)
 
 
 <!---
