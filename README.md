@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Sameera1994
 - 👀 I’m interested in Computer Science and Information Technology.
 - 💞️ I’m looking to collaborate on Open source projects.
-- 📫 How to reach me ...
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sameera1994&label=Profile%20views&color=0e75b6&style=flat)
 
-
+- 📫 How to reach me ...
 <a href="https://www.researchgate.net/profile/Sameera-Lakshitha">Researchgate</a></br>
 <a href="https://www.linkedin.com/in/w-g-sameera-lakshitha/">Linkedin</a></br>
 <a href="https://stackoverflow.com/users/7281091/sameera-lakshitha">stackoverflow</a></br>
