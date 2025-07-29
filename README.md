@@ -6,8 +6,8 @@
 [![Project Management](https://img.shields.io/badge/Project%20Management-StackExchange-orange?logo=stackexchange&logoColor=white)](https://pm.stackexchange.com/users/34468/sameera-lakshitha)
 [![Wikipedia](https://img.shields.io/badge/User-Wikipedia-green?logo=wikipedia&logoColor=white)](https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%81%E0%B7%93%E0%B6%BD%E0%B6%9A:Sameera94)
 
-<p align="justify">I'm an Instructor in Computer Technology Gr. II at the Faculty of Computing, Sabaragamuwa University of Sri Lanka. With a passion for Computer Science and Information Technology, I love exploring how technology can solve real-world problems and empower others through knowledge.</p>
-<p align="justify">I’m always curious about new technologies, passionate about clean code, and committed to continuous learning. Whether it's web development, software engineering, or academic computing, I enjoy building and sharing.</p>
+<p align="justify">I'm an <b>Instructor in Computer Technology Gr. II at the Faculty of Computing, Sabaragamuwa University of Sri Lanka.</b> With a passion for <b>Computer Science</b> and <b>Information Technology</b>, I love exploring how technology can solve real-world problems and empower others through knowledge.</p>
+<p align="justify">I’m always curious about new technologies, passionate about clean code, and committed to continuous learning. Whether it's <b>web development</b>, <b>software engineering</b>, or <b>academic computing</b>, I enjoy building and sharing.</p>
 <p align="justify">I’m especially excited to collaborate on open source projects that drive innovation and support the tech community. Let’s connect, build, and grow together!</p>
 
 
